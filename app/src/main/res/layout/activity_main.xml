@@ -8,6 +8,7 @@
 
         <ImageView
             android:id="@+id/imv1"
+            android:scaleType="matrix"
             android:layout_margin="10dp"
             android:src="@drawable/icon_customer"
             android:layout_height="wrap_content"
